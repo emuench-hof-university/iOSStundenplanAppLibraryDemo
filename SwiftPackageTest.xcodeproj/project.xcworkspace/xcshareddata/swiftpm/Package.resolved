@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "iOSStundenplanLib",
+        "repositoryURL": "https://github.com/max-grossmann/iOSStundenplanLib.git",
+        "state": {
+          "branch": null,
+          "revision": "f1558a87fc6f56a73ec5fcd3a76295634785c30f",
+          "version": "1.0.8"
+        }
+      },
+      {
+        "package": "OpenCombine",
+        "repositoryURL": "https://github.com/OpenCombine/OpenCombine.git",
+        "state": {
+          "branch": null,
+          "revision": "915a7efaf596058f9867ba76b08339740c47452e",
+          "version": "0.10.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
