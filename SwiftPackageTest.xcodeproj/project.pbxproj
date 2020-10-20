@@ -12,7 +12,6 @@
 		64809B7125387EE100005CF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64809B7025387EE100005CF6 /* Assets.xcassets */; };
 		64809B7425387EE100005CF6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64809B7325387EE100005CF6 /* Preview Assets.xcassets */; };
 		64809B812538AFD800005CF6 /* TestViewmodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64809B802538AFD800005CF6 /* TestViewmodel.swift */; };
-		64809B842538B11400005CF6 /* TestLib.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64809B832538B11400005CF6 /* TestLib.swift */; };
 		64809B892538B98C00005CF6 /* EventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64809B882538B98C00005CF6 /* EventView.swift */; };
 		64809B8D2538C41F00005CF6 /* iOSStundenplanLib in Frameworks */ = {isa = PBXBuildFile; productRef = 64809B8C2538C41F00005CF6 /* iOSStundenplanLib */; };
 /* End PBXBuildFile section */
@@ -25,7 +24,6 @@
 		64809B7325387EE100005CF6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		64809B7525387EE100005CF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		64809B802538AFD800005CF6 /* TestViewmodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewmodel.swift; sourceTree = "<group>"; };
-		64809B832538B11400005CF6 /* TestLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestLib.swift; sourceTree = "<group>"; };
 		64809B882538B98C00005CF6 /* EventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +64,6 @@
 				64809B7525387EE100005CF6 /* Info.plist */,
 				64809B7225387EE100005CF6 /* Preview Content */,
 				64809B802538AFD800005CF6 /* TestViewmodel.swift */,
-				64809B832538B11400005CF6 /* TestLib.swift */,
 				64809B882538B98C00005CF6 /* EventView.swift */,
 			);
 			path = SwiftPackageTest;
@@ -158,7 +155,6 @@
 				64809B812538AFD800005CF6 /* TestViewmodel.swift in Sources */,
 				64809B6F25387EE100005CF6 /* ContentView.swift in Sources */,
 				64809B6D25387EE100005CF6 /* SwiftPackageTestApp.swift in Sources */,
-				64809B842538B11400005CF6 /* TestLib.swift in Sources */,
 				64809B892538B98C00005CF6 /* EventView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
